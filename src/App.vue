@@ -9,7 +9,7 @@
         <!-- Circular Profile Picture -->
         <div class="profile-container">
           <img 
-            src="/id pic/20210620_103703.jpg" 
+            src="/images/profile/20210620_103703.jpg" 
             alt="Francis Encomienda" 
             class="profile-pic"
           />
@@ -116,16 +116,16 @@ export default {
   data() {
     return {
       artImages: [
-        { path: '/edit project/ARTPRE1.jpg', alt: 'Digital Art 1' },
-        { path: '/edit project/Bladerunner2049 mosaic from Cedric Encomienda.jpg', alt: 'Digital Art 2' },
-        { path: '/edit project/wallpaperflare.com_wallpaper.png', alt: 'Digital Art 3' }
+        { path: '/images/art/ARTPRE1.jpg', alt: 'Digital Art 1' },
+        { path: '/images/art/Bladerunner2049 mosaic from Cedric Encomienda.jpg', alt: 'Digital Art 2' },
+        { path: '/images/art/wallpaperflare.com_wallpaper.png', alt: 'Digital Art 3' }
       ],
       gameImages: [
-        { path: '/game_images/bf1 logo.png', alt: 'Battlefield 1' },
-        { path: '/game_images/city skyline logo.png', alt: 'Cities Skylines' },
-        { path: '/game_images/project reality.png', alt: 'Project Reality' },
-        { path: '/game_images/war thunder logo.png', alt: 'War Thunder' },
-        { path: '/game_images/zzz logo.png', alt: 'ZZZ Game' }
+        { path: '/images/games/bf1 logo.png', alt: 'Battlefield 1' },
+        { path: '/images/games/city skyline logo.png', alt: 'Cities Skylines' },
+        { path: '/images/games/project reality.png', alt: 'Project Reality' },
+        { path: '/images/games/war thunder logo.png', alt: 'War Thunder' },
+        { path: '/images/games/zzz logo.png', alt: 'ZZZ Game' }
       ]
     }
   },

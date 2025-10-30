@@ -134,7 +134,6 @@ body {
   box-shadow: 0 4px 15px rgba(0,0,0,0.1);
   font-weight: bold;
   font-size: 1.1rem;
-  /* Removed hover effect */
 }
 
 /* Project Card */
@@ -172,7 +171,6 @@ body {
   padding: 15px;
   border-radius: 10px;
   box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-  /* Removed hover effect */
 }
 
 .art-item img {
@@ -196,7 +194,6 @@ body {
   border-radius: 15px;
   text-align: center;
   box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-  /* Removed hover effect */
 }
 
 .game-card img {
